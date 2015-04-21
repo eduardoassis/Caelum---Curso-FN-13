@@ -1,0 +1,14 @@
+c:\users\teste\documents\visual studio 2010\Projects\OiMundo\OiMundo\bin\Debug\OiMundo.exe
+c:\users\teste\documents\visual studio 2010\Projects\OiMundo\OiMundo\bin\Debug\OiMundo.pdb
+c:\users\teste\documents\visual studio 2010\Projects\OiMundo\OiMundo\obj\x86\Debug\OiMundo.Form1.resources
+c:\users\teste\documents\visual studio 2010\Projects\OiMundo\OiMundo\obj\x86\Debug\OiMundo.Properties.Resources.resources
+c:\users\teste\documents\visual studio 2010\Projects\OiMundo\OiMundo\obj\x86\Debug\OiMundo.csproj.GenerateResource.Cache
+c:\users\teste\documents\visual studio 2010\Projects\OiMundo\OiMundo\obj\x86\Debug\OiMundo.exe
+c:\users\teste\documents\visual studio 2010\Projects\OiMundo\OiMundo\obj\x86\Debug\OiMundo.pdb
+\\VBOXSVR\Área_de_Trabalho\workspace\OiMundo\OiMundo\obj\x86\Debug\OiMundo.exe
+\\VBOXSVR\Área_de_Trabalho\workspace\OiMundo\OiMundo\obj\x86\Debug\OiMundo.pdb
+\\VBOXSVR\Área_de_Trabalho\workspace\OiMundo\OiMundo\bin\Debug\OiMundo.exe
+\\VBOXSVR\Área_de_Trabalho\workspace\OiMundo\OiMundo\bin\Debug\OiMundo.pdb
+\\VBOXSVR\Área_de_Trabalho\workspace\OiMundo\OiMundo\obj\x86\Debug\OiMundo.Form1.resources
+\\VBOXSVR\Área_de_Trabalho\workspace\OiMundo\OiMundo\obj\x86\Debug\OiMundo.Properties.Resources.resources
+\\VBOXSVR\Área_de_Trabalho\workspace\OiMundo\OiMundo\obj\x86\Debug\OiMundo.csproj.GenerateResource.Cache
