@@ -1,6 +1,8 @@
 
 /exercicios_variaveis/OiMundo/obj/*
 
+[Oo]bj/
+[Bb]in/
 *.suo
 *.csproj.user
 *.log
