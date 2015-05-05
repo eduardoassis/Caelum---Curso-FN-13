@@ -49,6 +49,7 @@ namespace EstruturasDeRepeticao
             MessageBox.Show("O total é: " + total);
             */
 
+            /*
             int soma = 0;
 
             for (int i = 1; i <= 1000; i++)
@@ -57,6 +58,15 @@ namespace EstruturasDeRepeticao
             }
 
             MessageBox.Show("Soma de 1 a 1000: " + soma);
+            */
+
+            for(int i = 1; i <= 100; i++)
+            {
+                if((i % 3) == 0)
+                {
+                    MessageBox.Show(i.ToString());
+                }
+            }
         }
     }
 }
