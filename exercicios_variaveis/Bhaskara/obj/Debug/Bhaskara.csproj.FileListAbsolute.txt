@@ -1,0 +1,8 @@
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\Bhaskara\bin\Debug\Bhaskara.exe.config
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\Bhaskara\bin\Debug\Bhaskara.exe
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\Bhaskara\bin\Debug\Bhaskara.pdb
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\Bhaskara\obj\Debug\Bhaskara.Form1.resources
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\Bhaskara\obj\Debug\Bhaskara.Properties.Resources.resources
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\Bhaskara\obj\Debug\Bhaskara.csproj.GenerateResource.Cache
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\Bhaskara\obj\Debug\Bhaskara.exe
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\Bhaskara\obj\Debug\Bhaskara.pdb

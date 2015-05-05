@@ -19,3 +19,5 @@ c:\users\teste\documents\visual studio 2010\Projects\OiMundo\OiMundo\obj\x86\Deb
 \\VBOXSVR\Área_de_Trabalho\workspace\Exercícios - variaveis\OiMundo\obj\x86\Debug\OiMundo.Form1.resources
 \\VBOXSVR\Área_de_Trabalho\workspace\Exercícios - variaveis\OiMundo\obj\x86\Debug\OiMundo.Properties.Resources.resources
 \\VBOXSVR\Área_de_Trabalho\workspace\Exercícios - variaveis\OiMundo\obj\x86\Debug\OiMundo.csproj.GenerateResource.Cache
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\OiMundo\obj\x86\Debug\OiMundo.exe
+D:\workspace\treinamento\Caelum---Curso-FN-13\exercicios_variaveis\OiMundo\obj\x86\Debug\OiMundo.pdb

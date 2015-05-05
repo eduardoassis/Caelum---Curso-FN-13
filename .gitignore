@@ -1,3 +1,7 @@
+
+/exercicios_variaveis/OiMundo/obj/*
+
 *.suo
 *.csproj.user
 *.log
+*.cache
