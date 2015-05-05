@@ -3,6 +3,7 @@
 
 [Oo]bj/
 [Bb]in/
+[Pp]roperties/
 *.suo
 *.csproj.user
 *.log
