@@ -22,9 +22,18 @@ namespace EstruturasDeRepeticao
 
             double valorInvestido = 1000.0;
 
+            /*
             for (int i = 0; i <= 11; i++)
             {
                 valorInvestido = valorInvestido * 1.01;
+            }
+            */
+
+            int i = 0;
+            while(i <= 11)
+            {
+                valorInvestido = valorInvestido * 1.01;
+                i++;
             }
 
             MessageBox.Show("Valor investido depois de 12 meses rendendo 1% ao mês é: " + valorInvestido);
