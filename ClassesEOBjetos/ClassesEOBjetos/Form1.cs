@@ -31,16 +31,18 @@ namespace ClassesEOBjetos
             MessageBox.Show("Saldo: " + contaVictor.saldo);
             */
 
-            Conta mauricio = new Conta();
-            mauricio.saldo = 2000.0;
+            Conta umaConta = new Conta();
+            umaConta.Deposita(10000.0);
+            
+            Cliente victor = new Cliente();
+            victor.nome = "Victor";
 
-            Conta copia = mauricio;
-            copia.saldo = 3000.0;
+            umaConta.titular = victor;
 
-            MessageBox.Show("Mauricio: " + mauricio.saldo);
-            MessageBox.Show("Copia: " + copia.saldo);
+            umaConta.titular.rg = "000.000.000-00";
 
-
+            MessageBox.Show("Nome: " + umaConta.titular.nome);
+            MessageBox.Show("RG: " + victor.rg);
         }
 
     }

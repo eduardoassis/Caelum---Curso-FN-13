@@ -9,8 +9,8 @@ namespace ClassesEOBjetos.Models
     class Conta
     {
         public int numero;
-        public string titular;
         public double saldo;
+        public Cliente titular;
 
         public void Deposita(double valor)
         {
