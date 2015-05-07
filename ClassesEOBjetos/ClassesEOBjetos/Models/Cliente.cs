@@ -8,10 +8,10 @@ namespace ClassesEOBjetos.Models
 {
     class Cliente
     {
-        public string nome;
-        public string cpf;
-        public string rg;
-        public string endereco;
+        public string Nome {get; set;}
+        public string Cpf {get; set;}
+        public string RG { get; set; }
+        public string Endereco { get; set; }
 
 
 

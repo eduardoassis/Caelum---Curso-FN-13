@@ -35,14 +35,15 @@ namespace ClassesEOBjetos
             umaConta.Deposita(10000.0);
             
             Cliente victor = new Cliente();
-            victor.nome = "Victor";
+            victor.Nome = "Victor";
 
-            umaConta.titular = victor;
+            umaConta.Titular = victor;
 
-            umaConta.titular.rg = "000.000.000-00";
+            umaConta.Titular.RG = "000.000.000-00";
 
-            MessageBox.Show("Nome: " + umaConta.titular.nome);
-            MessageBox.Show("RG: " + victor.rg);
+            MessageBox.Show("Nome: " + umaConta.Titular.Nome);
+            MessageBox.Show("RG: " + victor.RG);
+            MessageBox.Show("Saldo: " + umaConta.Saldo);
         }
 
     }

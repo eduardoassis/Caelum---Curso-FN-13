@@ -8,20 +8,20 @@ namespace ClassesEOBjetos.Models
 {
     class Conta
     {
-        public int numero;
-        public double saldo;
-        public Cliente titular;
+        public int Numero { get; set;}
+        public double Saldo{get; private set;}
+        public Cliente Titular { get; set; }
 
         public void Deposita(double valor)
         {
-            this.saldo += valor;
+            this.Saldo += valor;
         }
 
         public bool Saca(double valor)
         {
-            if(valor <= this.saldo)
+            if(valor <= this.Saldo)
             {
-                this.saldo -= valor;
+                this.Saldo -= valor;
                 return true;
             }
 
@@ -30,9 +30,9 @@ namespace ClassesEOBjetos.Models
 
         public void Transfere(double valor, Conta destino)
         {
-            if(this.saldo >= valor)
+            if(this.Saldo >= valor)
             {
-                this.saldo -= valor;
+                this.Saldo -= valor;
                 destino.Deposita(valor);
             }
         }
